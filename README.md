@@ -1,11 +1,11 @@
 # Poker_Simulation_Analysis
 
 Here is the main code: 🏹
-[Assigment](https://github.com/Jankoetf/Math-Task/blob/main/BeeCool_Math_Assignment.ipynb)
+[Poker Main Code](https://github.com/Jankoetf/Math-Task/blob/main/BeeCool_Math_Assignment.ipynb)
 🏹
 
 Here is the visualization:🐱‍👤
-[Assigment](https://github.com/Jankoetf/Math-Task/blob/main/BeeCool_Math_Assignment.ipynb)
+[Visualization](https://github.com/Jankoetf/Math-Task/blob/main/BeeCool_Math_Assignment.ipynb)
 🐱‍👤
 
 <br><br><br>
