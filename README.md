@@ -1,7 +1,7 @@
 # Poker_Simulation_Analysis
 
 Here is the main code: 🏹
-[Poker Main Code](https://github.com/Jankoetf/Math-Task/blob/main/Poker.ipynb)
+[Poker Main Code](https://github.com/Jankoetf/Math-Task/blob/main/Poker.py)
 🏹
 
 Here is the visualization code:🐱‍👤
